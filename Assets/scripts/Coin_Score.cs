@@ -10,6 +10,7 @@ public class Coin_Score : MonoBehaviour {
 	void Start () {
 		count = 0;
 
+		SetCountTex ();
 		SetCountText ();
 	}
 	
